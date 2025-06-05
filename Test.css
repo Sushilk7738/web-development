@@ -1,0 +1,37 @@
+h1 {
+    border: 1px solid turquoise;
+    height: 50px;
+    width: 300px;
+    display: inline;
+    /* visibility: hidden; */
+}
+
+a {
+    border: 1px solid purple;
+    height: 50px;
+    width: 300px;
+    display: inline-block;
+}
+
+
+
+/* 
+display property
+------------------
+block level display
+full width
+new element placed in new row.
+height and width customizable.
+
+inline display
+width based on content size
+new element placed in same row
+height and width are not customizable
+
+inline-block
+
+*/
+
+
+
+
